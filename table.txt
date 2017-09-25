@@ -1,0 +1,4 @@
+ggl @ http://google.com
+bng @ http://bing.com
+cnvs @ http://canvas.unomaha.edu
+hppy @ http://example.com
